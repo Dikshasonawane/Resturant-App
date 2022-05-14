@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Resturant-App/static/css/main.8c54309d.chunk.css",
+    "main.js": "/Resturant-App/static/js/main.5fe82fb7.chunk.js",
+    "main.js.map": "/Resturant-App/static/js/main.5fe82fb7.chunk.js.map",
+    "runtime-main.js": "/Resturant-App/static/js/runtime-main.7df545de.js",
+    "runtime-main.js.map": "/Resturant-App/static/js/runtime-main.7df545de.js.map",
+    "static/js/2.c084806e.chunk.js": "/Resturant-App/static/js/2.c084806e.chunk.js",
+    "static/js/2.c084806e.chunk.js.map": "/Resturant-App/static/js/2.c084806e.chunk.js.map",
+    "index.html": "/Resturant-App/index.html",
+    "static/css/main.8c54309d.chunk.css.map": "/Resturant-App/static/css/main.8c54309d.chunk.css.map",
+    "static/js/2.c084806e.chunk.js.LICENSE.txt": "/Resturant-App/static/js/2.c084806e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7df545de.js",
+    "static/js/2.c084806e.chunk.js",
+    "static/css/main.8c54309d.chunk.css",
+    "static/js/main.5fe82fb7.chunk.js"
+  ]
+}
